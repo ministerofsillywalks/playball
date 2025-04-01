@@ -13,6 +13,12 @@ Just want to try it out?
 ```
 $ npx playball
 ```
+### TO INSTALL THIS FORK INSTEAD OF THE ACTUAL PACKAGE
+```
+git clone https://github.com/ministerofsillywalks/playball.git
+cd playball
+npm install -g
+```
 
 ### Install
 Ready for the big leagues? Install the package globally
