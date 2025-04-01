@@ -48,7 +48,7 @@ function Game() {
     Wrapped = LiveGame;
     break;
   case 'F':
-    Wrapped = FinishedGame;
+    Wrapped = LiveGame;
     break;
   }
 
